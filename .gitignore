@@ -712,3 +712,5 @@ cython_debug/
 /list_landmarks_align_celeba.csv
 
 
+cv-final-project.code-workspace
+.gitignore
